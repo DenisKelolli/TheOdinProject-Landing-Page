@@ -1,0 +1,30 @@
+.quote_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 34px;
+    font-style: italic;
+}
+
+.quote{
+    width: 570px;
+  margin-top: 80px;
+  
+}
+
+.third_section_signature_container{
+    display: flex;
+    justify-content: end;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+
+.signature{
+    margin-right: 20px;
+}
+
+.third_section_container{
+    height: 350px;
+    background-color: #E5E7EB
+}
