@@ -1,0 +1,36 @@
+.some_random_information_container{
+    display: flex;
+    justify-content: center;
+}
+
+.empty_box_and_text_container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 30px;
+}
+
+.some_random_information_container{
+    font-size: 36px;
+    font-weight: bold;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.empty_box_and_text_wrapper{
+    justify-content: center;
+    height: 150px;
+    width: 150px;
+}
+
+.empty_box{
+    height: 150px;
+    width: 150px;
+    border: 3px solid #3882F6;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.second_section_container{
+    height: 350px;
+}
