@@ -1,2 +1,2 @@
 # TheOdinProject-Landing-Page
-Create a web page from a design.
+Create a landing page from a design.
